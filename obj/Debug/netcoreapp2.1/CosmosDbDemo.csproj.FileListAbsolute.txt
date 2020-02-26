@@ -1,0 +1,13 @@
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\obj\Debug\netcoreapp2.1\CosmosDbDemo.csprojAssemblyReference.cache
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\obj\Debug\netcoreapp2.1\CosmosDbDemo.csproj.CoreCompileInputs.cache
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\obj\Debug\netcoreapp2.1\CosmosDbDemo.AssemblyInfoInputs.cache
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\obj\Debug\netcoreapp2.1\CosmosDbDemo.AssemblyInfo.cs
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\bin\Debug\netcoreapp2.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\bin\Debug\netcoreapp2.1\Cosmos.CRTCompat.dll
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\bin\Debug\netcoreapp2.1\CosmosDbDemo.deps.json
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\bin\Debug\netcoreapp2.1\CosmosDbDemo.runtimeconfig.json
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\bin\Debug\netcoreapp2.1\CosmosDbDemo.runtimeconfig.dev.json
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\bin\Debug\netcoreapp2.1\CosmosDbDemo.dll
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\bin\Debug\netcoreapp2.1\CosmosDbDemo.pdb
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\obj\Debug\netcoreapp2.1\CosmosDbDemo.dll
+C:\Users\Pushkar\Documents\gk\CosmosDb\CosmosDbDemo\obj\Debug\netcoreapp2.1\CosmosDbDemo.pdb
